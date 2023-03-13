@@ -121,8 +121,7 @@ public class basic_of_mopile {
 		this.price = price;
 	}
 
-	public basic_of_mopile(int id, String brand, String model, String processor, String storage, String ram,
-			String rcamera, String fcamera, String screen, String battery, String price, String OS) {
+	public basic_of_mopile(int id, String brand, String model, String processor, String storage, String ram, String rcamera, String fcamera, String screen, String battery, String price, String OS) {
 		super();
 		this.id = id;
 		this.brand = brand;
